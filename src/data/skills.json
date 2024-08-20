@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "skills/Java.png",
+      "progress": "70",
+      "colour": "E11F22"
+    },
+    {
+      "title": "Android Studio",
+      "imageSrc": "skills/AndroidStudio.png",
+      "progress": "75",
+      "colour": "6EBE8E"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/Python.png",
+      "progress": "65",
+      "colour": "366D9D"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/Node.png",
+      "progress": "85",
+      "colour": "8BD137"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/React.png",
+      "progress": "90",
+      "colour": "61DAFB"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/Figma.png",
+      "progress": "75",
+      "colour": "B659FF"
+    },
+    {
+      "title": "CSS/HTML",
+      "imageSrc": "skills/CSS.png",
+      "progress": "60",
+      "colour": "FF9100"
+    },
+    {
+      "title": "Jira",
+      "imageSrc": "skills/Jira.png",
+      "progress": "55",
+      "colour": "2684FF"
+    }
+  ]
+  
